@@ -10,7 +10,7 @@ You can also visit the github to see them now: https://github.com/AntonioErdelja
 
 * run backend (server)
 
-*$KwonK@MNIT-D15-GR MINGW64 ~/documents/bc-hw-github/Chat-Tutorial-master/Chat-Tutorial-master/backend
+*Chat-socket
 $ node app.js
 server is running on port 5000$
 DRoNQP3p7LOxoqXzAAAA
@@ -18,7 +18,7 @@ OlUIpSzgGOhK9GMgAAAB
 
 * start client
 
-*$KwonK@MNIT-D15-GR MINGW64 ~/documents/bc-hw-github/Chat-Tutorial-master/Chat-Tutorial-master
+*Chat-socket
 $ yarn start
 yarn run v1.9.2
 $ react-scripts start
